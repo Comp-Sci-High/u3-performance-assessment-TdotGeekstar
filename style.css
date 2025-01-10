@@ -1,6 +1,12 @@
 .center{
     text-align: center;
 }
-body{
+.home{
     font-family: "Zeyada", serif !important;
 }
+.geek {
+    font-family: "Lacquer", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
